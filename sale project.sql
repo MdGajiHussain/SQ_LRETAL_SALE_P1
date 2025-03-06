@@ -1,7 +1,7 @@
 create database project;
 use project;
 
-drop database project;
+
 select*from sale
 limit 10;
 
